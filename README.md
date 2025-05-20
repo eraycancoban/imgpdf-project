@@ -59,5 +59,3 @@ The project requires the following Python libraries:
 
 These libraries are listed in the `requirements.txt` file.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
